@@ -1,5 +1,7 @@
 ## Hi everybody 👋
 
+CuteGUI is an open source project which aims to make GUI application development faster and easier, yet native
+
 <!--
 
 **Here are some ideas to get you started:**
